@@ -1,0 +1,6 @@
+{
+    "name": "Nombre del la extension",
+    "publisher": "Virtual Office C.A",
+    "mandatoryAffixes": [ "VOG" ],
+    "supportedCountries": [ "es"]
+}
