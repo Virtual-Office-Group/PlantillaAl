@@ -15,6 +15,7 @@
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "27.0.0.0",
+  "applicationInsightsConnectionString": "InstrumentationKey=f2223b24-a248-4af6-b9df-e42a7f2b652e;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=fea4ed8f-03bf-421e-8870-29dfb452efb3",
   "idRanges": [
     {
       "from": 1500350,
